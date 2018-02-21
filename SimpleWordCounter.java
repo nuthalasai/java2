@@ -30,5 +30,4 @@ public class SimpleWordCounter {
         catch(IOException e) {
             System.out.println("Unable to read from file.");
         }
-    }
-}
+    
